@@ -4,7 +4,7 @@
 ```bash
 # Clone the repository
 git clone https://github.com/mdri11/Custom-Apps.git
-cd Sort-Files-Based-on-keywords
+cd "Apps Folder"
 
 # Install Python dependencies if needed
 pip install -r requirements.txt
@@ -19,6 +19,7 @@ pip install -r requirements.txt
 
 ### Basic Usage
 ```bash
+cd Sort-Based-on-Keywords
 # Run the main application
 python SortBasedonKeyword3.py
 
