@@ -15,17 +15,17 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 🎯 Quick Start to SortBasedonKeyword3
+## 🎯 Quick Start to SortBasedonKeywords3
 
 ### Basic Usage
 ```bash
 cd Sort-Based-on-Keywords
 
 # Run the main application
-python SortBasedonKeyword3.py
+python SortBasedonKeywords3.py
 
 # With specific Python version
-python3 SortBasedonKeyword3.py
+python3 SortBasedonKeywords3.py
 ```
 
 
