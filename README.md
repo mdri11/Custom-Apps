@@ -6,9 +6,10 @@
   cd Sort-Files-Based-on-keywords
 
 - Run the Custom applications
-  python SortBasedonKeyword3.py
+- python SortBasedonKeyword3.py
+  
 - With specific Python version
-  python3 SortBasedonKeyword3.py
+- python3 SortBasedonKeyword3.py
 
 
 
