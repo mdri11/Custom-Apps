@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ### Basic Usage
 ```bash
-cd Sort-Based-on-Keywords
+cd Sort-Files-Based-on-Keywords
 
 # Run the main application
 python SortBasedonKeywords3.py
